@@ -1,0 +1,14 @@
+/Users/gabeo14/dev/OZKApp/ozk-back/bin/Debug/netcoreapp2.2/ozk-back.deps.json
+/Users/gabeo14/dev/OZKApp/ozk-back/bin/Debug/netcoreapp2.2/ozk-back.runtimeconfig.json
+/Users/gabeo14/dev/OZKApp/ozk-back/bin/Debug/netcoreapp2.2/ozk-back.runtimeconfig.dev.json
+/Users/gabeo14/dev/OZKApp/ozk-back/bin/Debug/netcoreapp2.2/ozk-back.dll
+/Users/gabeo14/dev/OZKApp/ozk-back/bin/Debug/netcoreapp2.2/ozk-back.pdb
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.csprojAssemblyReference.cache
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.csproj.CoreCompileInputs.cache
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.RazorAssemblyInfo.cache
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.RazorAssemblyInfo.cs
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.AssemblyInfoInputs.cache
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.AssemblyInfo.cs
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.RazorTargetAssemblyInfo.cache
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.dll
+/Users/gabeo14/dev/OZKApp/ozk-back/obj/Debug/netcoreapp2.2/ozk-back.pdb
